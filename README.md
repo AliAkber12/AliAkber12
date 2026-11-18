@@ -141,11 +141,17 @@ My public repositories and contribution activity are available in the **Reposito
 
 I'm interested in collaborating on **AI engineering, RAG, agents, backend systems and useful software products**.
 
-<!-- Add your verified URLs here. Remove any you do not use.
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/) · [Portfolio](https://YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL_ADDRESS)
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ali-akber-hyder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ali Akber on LinkedIn" />
+  </a>
+  <a href="mailto:aliakberhyder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ali Akber" />
+  </a>
+</div>
 
-**Feel free to explore the repositories or reach out through GitHub.**
+**LinkedIn:** [ali-akber-hyder](https://www.linkedin.com/in/ali-akber-hyder/)  
+**Email:** [aliakberhyder@gmail.com](mailto:aliakberhyder@gmail.com)
 
 ---
 
