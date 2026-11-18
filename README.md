@@ -25,7 +25,7 @@ I work across the AI application stack: connecting models to real data, building
 - **AI application development:** LLM integrations, prompt workflows, RAG and semantic search.
 - **Backend engineering:** Python, FastAPI, REST APIs, relational databases and service design.
 - **Agentic systems:** Tool calling, multi-step workflows and evaluation of model behavior.
-- **Product building:** SaaS concepts, automation tools, dashboards and Java desktop applications.
+- **Product building:** SaaS concepts, automation tools, dashboards and business workflow applications.
 - **Opportunities:** Open to relevant internships, engineering collaborations and project-based work.
 
 > My focus is on measurable functionality, clear architecture and honest documentation — not just impressive-looking demos.
@@ -53,8 +53,6 @@ I work across the AI application stack: connecting models to real data, building
 <br>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -94,7 +92,7 @@ I work across the AI application stack: connecting models to real data, building
 | **LLM Applications** | Integrating language models into real workflows, with structured inputs and useful outputs |
 | **RAG Systems** | Document ingestion, embeddings, retrieval, vector stores and answer generation |
 | **AI Agents** | Tool-driven workflows, multi-step decisions, API integrations and observable execution |
-| **Backend Services** | FastAPI/Java services, validation, database design and REST endpoints |
+| **Backend Services** | Python/FastAPI services, validation, database design and REST endpoints |
 | **Product Engineering** | Functional SaaS interfaces, automation and maintainable user-facing features |
 
 ## Selected Projects
@@ -105,8 +103,8 @@ I work across the AI application stack: connecting models to real data, building
 |:--|:--|:--|
 | **Dazento — Time Tracking SaaS** | Tasks, recurring schedules, workspaces, break/pause workflows and subscription plans | SaaS architecture · workflow logic · product UX |
 | **Aureplan — Finance Dashboard** | Accounts, transaction management, budgets, cash flow and reporting | Full-stack dashboards · databases · financial workflows |
-| **CineBook — Movie Ticket Booking** | Movie listings, bookings, seat selection and strong input validation | Java · GUI · application logic |
-| **UniSeat — University Event Booking** | Event registration, available seats, booking management and admin flows | Java · GUI · validation |
+| **InstaFlow — Workflow Platform** | Instagram-oriented workflow and automation project; specific capabilities to be documented | Workflow automation · product development |
+| **CRM — Customer Relationship Management** | Customer and business relationship management project; specific capabilities to be documented | Business workflows · data management |
 | **Google Maps Leads Tool** | Structured business research and spreadsheet-oriented lead exports | Python · automation · structured data |
 
 ### How I Approach Projects
@@ -122,19 +120,18 @@ I work across the AI application stack: connecting models to real data, building
 - **Evaluation for LLM applications:** Response quality, correctness, relevance and tool-use behavior.
 - **Agentic AI:** LangGraph-style orchestration, tool integration and reliable execution paths.
 - **RAG quality:** Chunking, retrieval, embeddings and reducing unsupported answers.
-- **Software fundamentals:** Java, Spring Boot, SQL, clean APIs, testing and system design.
+- **Software fundamentals:** Python, SQL, clean APIs, testing and system design.
 - **Production readiness:** Docker, deployment practices, observability and operational trade-offs.
 
 ## GitHub Activity
 
 <!--
-OPTIONAL: Once you know your GitHub username, replace YOUR_GITHUB_USERNAME
-and remove the surrounding HTML comment to enable live GitHub widgets.
+OPTIONAL: Remove the surrounding HTML comment to enable live GitHub widgets for AliAkber12.
 Third-party widgets can sometimes fail or be rate limited.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages in public repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliAkber12&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAkber12&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages in public repositories" />
 </div>
 -->
 
